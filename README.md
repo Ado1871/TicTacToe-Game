@@ -9,6 +9,10 @@ This project is a simple implementation of the classic Tic Tac Toe game in C++. 
 - **Replayability:** After a game is over, players are prompted to play again or exit the game.
 - **Input Validation:** The game validates user input for selecting options and making moves on the game board.
 
+## Requirements
+
+- **Compiler**: The game was developed and tested with the GCC C++ compiler version 4.9.2. It should be compatible with most C++11 compliant compilers.
+
 ## How to Play
 
 1. **Start the Game:** Run the compiled executable to start the game.
